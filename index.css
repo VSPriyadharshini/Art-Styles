@@ -1,0 +1,42 @@
+
+.navigation {
+    background-color: pink;
+    height: 110px;
+    width: 1300px;
+    display: inline;
+    float: right;
+    text-align: center;
+    margin: 30px;
+    border-radius: 20px;
+    border: 5px;
+    border-color: black;
+    font-family: algerian;
+    background: url(headbg.jpg);
+}
+.navlinks {
+    word-spacing: 20px;
+    padding-top: 45px;
+    padding-left: 630px;
+}
+.links {
+    color: indigo;
+    
+    }
+.links:hover {
+color: greenyellow;
+background-color: darkblue;
+}
+
+.links:active {
+    color: blanchedalmond;
+}
+.frame {
+    margin-left: 25px; 
+    width: 1295px; 
+    height: 1100px;
+    border: 1px strong;
+    border-color: black;
+}
+a {
+    font-family: britanic bold;
+}
